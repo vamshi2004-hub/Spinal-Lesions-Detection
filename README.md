@@ -54,3 +54,8 @@ Dataset source and licensing information are available in `README.dataset.txt`.
 ## 👨‍💻 Project
 
 **Automatic Detection of Spinal Lesions from CT Scans via Deep Transfer Learning**
+## 📦 Model File
+
+The trained Xception model (`x_model.h5`) is not included in this repository because of its large file size.
+
+The repository contains the training notebooks, Flask application, web interface, project documentation, and dataset information.
